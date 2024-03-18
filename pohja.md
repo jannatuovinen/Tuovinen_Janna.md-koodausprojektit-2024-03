@@ -1,17 +1,30 @@
-# Projektin otsikko
-
-Muutaman lauseen mitatinen projektin kuvaus.
+# Projektin nimi 
+* Yksinkertainen portfolio
 
 ## Tekniikat
 
-* Ohjelmointikieli: Python, JavaScript, Go, C++, tms.
-* Taustajärjestelmä: Django, Node.js, tms.
-* Käyttöliittymä: Puhdas HTML+CSS, Bootstrap, Tailwind, tms.
+* Django
+* Python
+* Visual Studio Code
 
-## Integraatiot
+## Lompakon ominaisuudet
 
-Voit kertoa, jos ohjelma yhdistyy johonkin muihin järjestelmiin.
+1. Kotisivu
+2. Blogi
+3. Projektiportfolio
+4. Kuvagalleria
 
-## Muuta?
+## Hankkeen rakenne
 
-Onko muuta mainitsemisen arvoista projektista?
+1. Kehitysympäristön konfigurointi
+2. Tietokantasuunnittelu
+3. Näkymien ja mallien kehitys
+4. Tyyli- ja sisältöintegrointi
+5. Käyttöönotto palvelimelle
+
+## Projektin tavoitteet
+
+* Luoda ammattimainen portfolio
+* Kehittää verkkokehitystaitoja Django ja Python avulla
+* Harjoitella Visual Studio Coden käyttöä Python- ja Django-projektien kehitysympäristönä
+
