@@ -1,5 +1,6 @@
 # Projektin nimi 
 * Yksinkertainen portfolio
+* https://github.com/CAUCORASEKO/django-porfolio-simple.git
 
 ## Tekniikat
 
