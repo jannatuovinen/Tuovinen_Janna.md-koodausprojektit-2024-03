@@ -26,6 +26,7 @@ sitä mukaa, kun projektien kuvaukset ovat tehty.
 | Monena Roo                    | [-](Monena_Roo.md) |
 | Paijo Joonatan                | [-](Paijo_Joonatan.md) |
 | Rantanen Maria                | [-](Rantanen_Maria.md) |
+| Ruohonen Marcus               | [-](Ruohonen_Marcus.md) |
 | Saarela Lucas                 | [-](Saarela_Lucas.md) |
 | Tuominen Miro                 | [-](Tuominen_Miro.md) |
 | Tuovinen Janna                | [Verkkokauppaharjoittelu](Tuovinen_Janna.md) |
