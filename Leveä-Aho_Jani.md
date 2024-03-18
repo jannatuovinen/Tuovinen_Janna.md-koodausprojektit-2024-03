@@ -3,7 +3,7 @@ Django-pohjainen kotisivu. Olen aloittanut tämän projektin jo aiemmin, mutta s
 
 ## Tekniikat
 * Ohjelmointikieli: Python, JavaScript
-* Taustajärjestelmä: Django, PostgreSQL
+* Taustajärjestelmä: Django, PostgreSQL, Docker
 * Käyttöliittymä: Puhdas HTML+CSS, Bootstrap, Bootstrap Studio
 
 ## Muuta?
