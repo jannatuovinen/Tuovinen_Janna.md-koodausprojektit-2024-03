@@ -3,7 +3,7 @@
 
 Yksinkertainen verkkokauppa, josta voi ostaa keramiikkaesineita.
 
-    Osoite: https://github.com/dildorababaerova/savesta
+Osoite: https://github.com/dildorababaerova/savesta
 
 ## Tekniikat
 
