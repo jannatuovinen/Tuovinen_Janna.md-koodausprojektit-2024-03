@@ -12,7 +12,7 @@ sitä mukaa, kun projektien kuvaukset ovat tehty.
 
 | Nimi                          | Projekti |
 |-------------------------------|----------|
-| Babaerova Dildora             | [](Babaerova_Dildora.md) |
+| Babaerova Dildora             | [Verkkokauppa Savesta-ohjelma](Babaerova_Dildora.md) |
 | Heikkilä Kalle                | [-](Heikkilä_Kalle.md) |
 | Hiltunen Joonatan             | [-](Hiltunen_Joonatan.md) |
 | Jelekäinen Antti              | [Verkkokauppa satunnaisille tuotteille](Jelekäinen_Antti.md) |
@@ -28,5 +28,5 @@ sitä mukaa, kun projektien kuvaukset ovat tehty.
 | Rantanen Maria                | [-](Rantanen_Maria.md) |
 | Saarela Lucas                 | [-](Saarela_Lucas.md) |
 | Tuominen Miro                 | [-](Tuominen_Miro.md) |
-| Tuovinen Janna                | [Django-harjoittelu](Tuovinen_Janna.md) |
-| Valenzuela Claudio            | [Projektin nimi ](Valenzuela_Claudio.md) |
+| Tuovinen Janna                | [Verkkokauppaharjoittelu](Tuovinen_Janna.md) |
+| Valenzuela Claudio            | [Yksinkertainen portfolio](Valenzuela_Claudio.md) |

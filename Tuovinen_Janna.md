@@ -1,4 +1,4 @@
-# Django-harjoittelu
+# Verkkokauppaharjoittelu
 
 Verkkokauppaharjoittelu Djangolla
 
