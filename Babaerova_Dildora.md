@@ -1,4 +1,3 @@
-
 # Verkkokauppa Savesta-ohjelma
 
 Yksinkertainen verkkokauppa, josta voi ostaa keramiikkaesineita.

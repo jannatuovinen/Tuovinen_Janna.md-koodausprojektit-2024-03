@@ -18,13 +18,13 @@ sitä mukaa, kun projektien kuvaukset ovat tehty.
 | Jelekäinen Antti              | [Verkkokauppa satunnaisille tuotteille](Jelekäinen_Antti.md) |
 | Kaari Aaron                   | [-](Kaari_Aaron.md) |
 | Kaski Antti                   | [-](Kaski_Antti.md) |
-| Kukkonen Miikka               | [-](Kukkonen_Miikka.md) |
+| Kukkonen Miikka               | [Text to html](Kukkonen_Miikka.md) |
 | Laine Jari                    | [-](Laine_Jari.md) |
 | Leppälehto Eero               | [Valokuva galleria sivusto](Leppälehto_Eero.md) |
 | Leveä-Aho Jani                | [Oma kotisivu](Leveä-Aho_Jani.md) |
 | Lindström Victoria            | [Small Project Management Tool 💼](Lindstrom_Victoria.md) |
 | Monena Roo                    | [-](Monena_Roo.md) |
-| Paijo Joonatan                | [-](Paijo_Joonatan.md) |
+| Paijo Joonatan                | [SporteContact](Paijo_Joonatan.md) |
 | Rantanen Maria                | [-](Rantanen_Maria.md) |
 | Ruohonen Marcus               | [-](Ruohonen_Marcus.md) |
 | Saarela Lucas                 | [-](Saarela_Lucas.md) |
